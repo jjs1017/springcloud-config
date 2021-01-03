@@ -1,1 +1,2 @@
-config-drv 测试 1
+config: 
+  info: "master  config-dev  测试  1"
